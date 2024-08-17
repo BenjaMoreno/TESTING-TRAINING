@@ -1,0 +1,12 @@
+.container-poke {
+  border: solid black 1px;
+  display: flex;
+}
+.container-poke .aa {
+  width: 50%;
+  border: solid black 1px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
